@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "novel-express-app",
+  "private_key_id": "08dc775e151edb634f3aa6f525ba5a8ec501729b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/k8PoxEARqYh3\nMKdbVx9O0aPOLdrEW+6LhBAGRmxksElrrkyiCloRVvHJFZpFoJoGDhKSoL/tX2aM\nBsjNW62P/wnG8VPTBGnv+p7zgKCy+D1uiRidulNuaZ7QWd/TPV/wqrzuz/u3DAWL\nGqu363A54ZbgJEKaj4FLgIlwep3klVspzyL0cOvHrKrWviy17XqsZ0ZRR+7uTaMy\n403JwSKSl5Ngq3UEqaTDmiLXKuCTjFvxcKJkhgf5hMi4v8JkdEbYZy6u6cyN6IiN\nDYl3Ce37rk4siH5edLoJq5pNbL13A5M+XAGSA3YBNXDYrqZhUGdiIaV/jfRemBPy\nMQDwA1PtAgMBAAECggEAA68C93s9Z5BkzuucbnovYFq/TEm/bYv+aPE0aazC+swU\n9ngWyyGyZV6r5O4SsXadOvxJ//3EJUS75+ddfe1eox9122GRZOicGpMIqWSIxMgy\nl1bMXV938lv6+nwLWCYKZKWPOnMqwytGJkxwRbDqz12I8LYYolPk7GiWcs44xGyH\nZZdbgUSrjBJw7bQbLTPjYT75DInQ8h0Pu+IWHgBaCPpPZ11SrpRhtZwV4Qd242Eb\nZ8tA/AbV7eyB8+bzsPCTvZqqBsyqPkapJVtSdNU9d8Tfn9ohhhQSHrb7MPLkOlhv\n81VN/Yza40M4QuZ+cDCMAruYALXiWkXCGtSvOSq+AQKBgQDg36C/ou6J57TJc6KK\nghmikHVbzLVdApFS0ivFbeGOZNUPrTa0nlcwdVdtWTkveLT5p6urwHn1bhseqMtF\ncPQY0zuAPy1d3TPXdII3d+zgLhOU+/p1iWNW2vWr1a5fc8vWMKCpvauuRJe3X5pZ\n/N2eRoiTDn7s2joXk/K4rCnHgQKBgQDaGEjsWP2HmOz32XrvoKVDHR8K+e85kG6Y\nkN8PYPkU2hQLu8hh7Mul58w69+Ghb5Xlkr2x6yhgofX65DWx/ujlkwiGLSLP5VAE\nWv7sKDY2bn03K5zgEof1aHjjmU4L65M2cJX0mtp2ezVfTqubR4u7huJgXGsSvuGc\nAz7DwNpibQKBgAbxAD5KIkDhhSQezKqn33C0Mts1k3eeh6vdzvoWLTs/A5CrUR/8\nL0bQqHU4pto/SJ7YPSVdGKap0m582WF4XiCSDKklyhm2pU4GS6q4qfg1k+cqbA3K\nwuVAdwrp2qsZoPYopBz5PN5xQZmoetRCSPkExlx7uxFGnzpxF7H5poSBAoGAUvqg\nbERjmf7mUlrNunSNzF49HGkByw4X9jZQmEJWIsfijqBQ2mlFBoeOHfWIRGr3RlSx\nlgsZ3sJgm6fOgj2xkP+DY8GymBTwf+e7TFD0Z3tcauxOELccQZQRQs9mcYSdCz6E\n3383lZLFONDu2/K5yIzGftFK7+PuZPSbIdGzhXUCgYARAMa8lBDfK3q6FDPZkXB0\n7Fhnk/xDyLpAOQn8o/PCINvSXWiWaV4LEkM3BdvJwmqVIWJV7V8YRANGFNZh7kJ/\nQOAR+46rrDLqdHAwYmP+gm37O0jWnA6eAk8p7wog0prxYPQNUE5I/fwwVlO5uFB2\nNZAKiAGJYbYMBgYaJn17KA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lcy2f@novel-express-app.iam.gserviceaccount.com",
+  "client_id": "104441535483952169162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lcy2f%40novel-express-app.iam.gserviceaccount.com"
+}
